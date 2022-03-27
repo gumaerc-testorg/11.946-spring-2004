@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c795bd82-957d-8444-c087-708c06a19f8d
 resourcetype: Document
 title: week8_macgregor.pdf
 uid: 62cccf26-104a-c5e1-69bd-abdbc6f57cd9

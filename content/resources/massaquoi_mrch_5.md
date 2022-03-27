@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c795bd82-957d-8444-c087-708c06a19f8d
 resourcetype: Document
 title: massaquoi_mrch_5.pdf
 uid: d9e66024-f4f4-5864-1582-69e994762f15

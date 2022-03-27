@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c795bd82-957d-8444-c087-708c06a19f8d
 resourcetype: Document
 title: week2_berhanu.pdf
 uid: a1b254a8-fc09-f724-4afb-b5fdcba50f54

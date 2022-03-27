@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c795bd82-957d-8444-c087-708c06a19f8d
 resourcetype: Document
 title: nanavati_mar_12.pdf
 uid: 9ea343db-a1ad-a259-5402-4e0645291963

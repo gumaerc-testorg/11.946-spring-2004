@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c795bd82-957d-8444-c087-708c06a19f8d
 resourcetype: Document
 title: massaquoi_apr_2.pdf
 uid: f4d011d1-d9d3-0112-85bc-892b31972bfa

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3755e832-4759-336a-e763-71e3c0fc86db
 resourcetype: Document
 title: march_29.pdf
 uid: 18db2879-ca99-87f9-8808-30ef282f82bd
