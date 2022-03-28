@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 3755e832-4759-336a-e763-71e3c0fc86db
 ---
@@ -44,7 +45,7 @@ Dani Rodrik, Harvard University
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Importance of Institutions ([PDF]({{< baseurl >}}/resources/feb_17)) (Courtesy of Meijun Qian, Jun Qian, and Franklin Allen. Used with permission.)
+The Importance of Institutions ({{< resource_link 9257eee0-807f-1593-87f0-a70050eb3359 "PDF" >}}) (Courtesy of Meijun Qian, Jun Qian, and Franklin Allen. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Jun Qian, Boston College
@@ -104,7 +105,7 @@ Albert Park, University of Michigan
 7
 {{< tdclose >}}
 {{< tdopen >}}
-The Emergence of the Private Firm ([PDF]({{< baseurl >}}/resources/march_29)) (Courtesy of John McMillan, Christopher Woodruff, and the American Economic Association. Used with permission.)
+The Emergence of the Private Firm ({{< resource_link 18db2879-ca99-87f9-8808-30ef282f82bd "PDF" >}}) (Courtesy of John McMillan, Christopher Woodruff, and the American Economic Association. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Christopher Woodruff, University of California San Diego
@@ -144,7 +145,7 @@ Yasheng Huang, MIT
 10
 {{< tdclose >}}
 {{< tdopen >}}
-The Shape of Transition: Cities under Transition ([PDF]({{< baseurl >}}/resources/april_26)) (Courtesy of Alain Bertaud and Bertrand Renaud (Principal of Renaud Advisors). Used with permission.)
+The Shape of Transition: Cities under Transition ({{< resource_link 0d5b8f63-a2f0-01d0-a2b5-2f1bf59a2cd2 "PDF" >}}) (Courtesy of Alain Bertaud and Bertrand Renaud (Principal of Renaud Advisors). Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Alain Bertaud, Private Consultant
