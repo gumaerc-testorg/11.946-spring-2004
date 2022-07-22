@@ -5,6 +5,7 @@ file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week9_macgregor.pdf
 uid: 0763ceb2-b060-e24e-721a-58ebd63ee81e
 ---
 Response 8.
-

@@ -5,6 +5,7 @@ file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nanavati_march_5.pdf
 uid: ae16978c-96c4-b194-ce07-06eac3d93424
 ---
 Response #4.
-

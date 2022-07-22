@@ -6,6 +6,7 @@ file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: march_29.pdf
 uid: 18db2879-ca99-87f9-8808-30ef282f82bd
 ---
 Originally published in the Journal of Economic Perspectives, Summer 2003, 16(3):153-70.
-

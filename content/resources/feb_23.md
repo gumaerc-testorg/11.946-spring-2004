@@ -6,6 +6,7 @@ file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: feb_23.pdf
 uid: 6abbf46a-f545-4917-bd83-147807cf2645
 ---
 Prepared for the Studies in Comparative International Development symposium on institutions and evolution.
-
