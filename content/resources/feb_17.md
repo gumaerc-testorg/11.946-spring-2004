@@ -2,6 +2,7 @@
 content_type: resource
 description: Research paper.
 file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/9257eee0807f159387f0a70050eb3359_feb_17.pdf
+file_size: 619046
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
