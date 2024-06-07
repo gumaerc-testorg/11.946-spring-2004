@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading response.
 file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/7a2f96ffb5087a4631220909312f661d_week4_nussupova.pdf
+file_size: 10229
 file_type: application/pdf
 learning_resource_types:
 - Assignments
