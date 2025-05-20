@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading Response.
-file: /ol-ocw-studio-app/courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/d9e66024f4f45864158269e994762f15_massaquoi_mrch_5.pdf
+file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/d9e66024f4f45864158269e994762f15_massaquoi_mrch_5.pdf
 file_size: 17127
 file_type: application/pdf
 learning_resource_types:

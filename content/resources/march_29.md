@@ -2,7 +2,7 @@
 content_type: resource
 description: Originally published in the Journal of Economic Perspectives, Summer
   2003, 16(3):153-70.
-file: /ol-ocw-studio-app/courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/18db2879ca9987f9880830ef282f82bd_march_29.pdf
+file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/18db2879ca9987f9880830ef282f82bd_march_29.pdf
 file_size: 183427
 file_type: application/pdf
 learning_resource_types:
