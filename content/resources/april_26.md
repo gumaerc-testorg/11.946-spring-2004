@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: World Bank Policy Research Working Paper No 1477.
-file: /ol-ocw-studio-app/courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/0d5b8f63a2f001d0a2b52f1bf59a2cd2_april_26.pdf
+file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/0d5b8f63a2f001d0a2b52f1bf59a2cd2_april_26.pdf
 file_size: 290914
 file_type: application/pdf
 learning_resource_types:

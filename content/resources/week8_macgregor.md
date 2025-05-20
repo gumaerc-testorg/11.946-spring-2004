@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Response 7.
-file: /ol-ocw-studio-app/courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/62cccf26104ac5e169bdabdbc6f57cd9_week8_macgregor.pdf
+file: /courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/62cccf26104ac5e169bdabdbc6f57cd9_week8_macgregor.pdf
 file_size: 69729
 file_type: application/pdf
 learning_resource_types:
