@@ -42,11 +42,11 @@ Transition Paths
 
 Kornai, Janos. "What the Change of System from Socialism to Capitalism Does and Does not Mean." _Journal of Economic Perspectives_ 14, no. 1 (2002): 27-42.
 
-"Transition: the First Ten Years: Analysis and Lessons for Eastern Europe and the Former Soviet Union." Washington DC: World Bank, 2002. ({{% resource_link "fb1ef791-886c-4306-9ba8-955f01637bf7" "PDF" %}})
+"Transition: the First Ten Years: Analysis and Lessons for Eastern Europe and the Former Soviet Union." Washington DC: World Bank, 2002. ([PDF](https://openknowledge.worldbank.org/handle/10986/14042))
 
 Naughton, Barry. _Growing Out of the Plan: Chinese Economic Reform 1978-1993._ Cambridge, UK: Cambridge University Press, 1995. ISBN: 0521470552.
 
-Public Broadcasting Service. "{{% resource_link "b361a7fd-e452-4088-b17f-0750384d5fee" "Frontline: China in the Red" %}}." 1999.
+Public Broadcasting Service. "[Frontline: China in the Red](http://www.pbs.org/wgbh/pages/frontline/shows/red/)." 1999.
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ Granovetter, Mark. "Economic Action and Social Structure: The Problem of Embedde
 
 North, Douglass. "Institutions." _Journal of Economics Perspectives_ 5 (1991): 97-112.
 
-{{% resource_link "e9d9789f-32c1-48a5-9e3a-229bbf697a7a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Roland, Gerard. _Transition and Economics: Politics, Markets, and Firms_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262182034.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182034) Roland, Gerard. _Transition and Economics: Politics, Markets, and Firms_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262182034.
 
 
 {{< tdclose >}}
@@ -170,7 +170,7 @@ Keane, Michael P., and Eswar S. Prasad. "Poland: Inequality, Transfers, and Grow
 
 Kornai, Janos. "The Reform of the Welfare State and Public Opinion." _American Economic Review_ 87, no. 2 (1997): 339-343.
 
-Sibley, Christopher W., and Patrick Paul Walsh. "Earnings Inequality and Transition: A Regional Analysis of Poland." IZA Discussion Papers 441. Bonn: Institute for the Study of Labor, 2002. ({{% resource_link "17da077f-e48b-488f-af5b-940a5dd9dda5" "PDF" %}} )
+Sibley, Christopher W., and Patrick Paul Walsh. "Earnings Inequality and Transition: A Regional Analysis of Poland." IZA Discussion Papers 441. Bonn: Institute for the Study of Labor, 2002. ([PDF](http://opus.zbw-kiel.de/volltexte/2003/978/pdf/dp441.pdf) )
 
 Ham, John, Jan Svejnar, and Katherine Terrell. "Women's Unemployment During the Transition: Evidence from Czech and Slovak Micro Data." _Economics of Transition_ 7, no. 1 (1999): 47-78.
 
@@ -234,7 +234,7 @@ Gillespie, John. "Institutional Reform: Controlling Discretion in State Economic
 The Role of Foreign Investment in Transition
 {{< tdclose >}}
 {{< tdopen >}}
-Huang, Yasheng, and Wenhua Di. "{{% resource_link "af14a667-87c4-46f5-a2a1-a0517fd8dcda" "A Tale of Two Provinces: The Institutional Environment and Foreign Ownership in China" %}}." MIT Sloan Working Paper No. 4482-04; William Davidson Institute Working Paper No. 667, 2004.
+Huang, Yasheng, and Wenhua Di. "[A Tale of Two Provinces: The Institutional Environment and Foreign Ownership in China](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=529142#PaperDownload)." MIT Sloan Working Paper No. 4482-04; William Davidson Institute Working Paper No. 667, 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
